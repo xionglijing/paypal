@@ -1,0 +1,1 @@
+package com.ricoh.paypal.pojo;import lombok.Data;/** * @author xionglijing * @date 2021/10/8 20:26 * @description */@Datapublic class Links{    private String href;    private String rel;    private String method;}
